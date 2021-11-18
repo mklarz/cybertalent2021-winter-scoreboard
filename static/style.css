@@ -1,0 +1,119 @@
+body {
+    background: linear-gradient(to top, rgb(41, 67, 90), rgb(47, 7, 67));
+    background-size: cover;
+    font-family: 'VT323', monospace;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+ol {
+    color: #fff;
+    list-style: none;
+    display: block;
+    max-width: 600px;
+    counter-reset: list-counter;
+    display: block;
+    margin: 0px auto;
+    padding-inline-start: 0;
+}
+
+ol li {
+    padding: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    font-size: 25px;
+    text-shadow:
+        0 0 6px rgba(202,228,225,0.92),
+        0 0 30px rgba(202,228,225,0.34),
+        0 0 12px rgba(30,132,242,0.52),
+        0 0 21px rgba(30,132,242,0.92),
+        0 0 34px rgba(213,30,242,0.78),
+        0 0 54px rgba(30,132,242,0.92);
+}
+
+ol li:hover {
+    background: rgba(255,255,255,0.1);
+}
+
+ol li.counter {
+    counter-increment: list-counter;
+}
+
+ol li.counter::before {
+    content: counter(list-counter) ". ";
+    color: cyan;
+    font-weight: bold;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow:
+        0 0 6px rgba(202,228,225,0.92),
+        0 0 30px rgba(202,228,225,0.34),
+        0 0 12px rgba(30,132,242,0.52),
+        0 0 21px rgba(30,132,242,0.92),
+        0 0 34px rgba(213,30,242,0.78),
+        0 0 54px rgba(30,132,242,0.92);
+}
+
+h1 {
+    font-size: 54px;
+    letter-spacing:2vw;
+    margin: 0 0 50px 2vw;
+}
+
+
+h2 {
+    font-size: 32px;
+    letter-spacing:0.5vw;
+    margin: 0 0 50px 0.5vw;
+}
+
+h3 {
+    font-size: 24px;
+    letter-spacing:0.5vw;
+    margin: 0 0 50px 0.2vw;
+}
+
+p {
+    text-align: center;
+    color: #fff;
+    font-size: 25px;
+}
+
+a {
+    color: #fff;
+}
+
+.sum{
+    float: right;
+    color: rgb(7, 247, 255);
+    font-size: 42px;
+    margin-top: -9px;
+}
+
+.container {
+    width: 80%;
+    display: block;
+    margin: 100px auto;
+}
+
+.bug {
+    margin: 20px auto;
+    display: block;
+    width: 50%;
+    max-width: 200px;
+    opacity: 1;
+}
