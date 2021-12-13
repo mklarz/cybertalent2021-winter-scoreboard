@@ -19,20 +19,20 @@
     },
     {
         "position": 4,
+        "user_id": "d3bc88c7109f8407034595364bbef949",
+        "name": "S\u00c5RBAR HACKTIVIST",
+        "points": 140
+    },
+    {
+        "position": 5,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "A",
         "points": 136
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
-        "points": 130
-    },
-    {
-        "position": 6,
-        "user_id": "d3bc88c7109f8407034595364bbef949",
-        "name": "S\u00c5RBAR HACKTIVIST",
         "points": 130
     },
     {
