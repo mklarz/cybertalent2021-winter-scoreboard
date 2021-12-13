@@ -1,13 +1,13 @@
 {
-    "position": 8,
+    "position": 7,
     "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
     "name": "Roellik",
-    "points": 100,
+    "points": 103,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 15,
         "3.1. Utfordringer lett": 0,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 25,
         "3.3. Utfordringer vanskelig": 0,
         "4. Skjulte flagg": 40
     }
