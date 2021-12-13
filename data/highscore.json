@@ -85,20 +85,20 @@
     },
     {
         "position": 15,
+        "user_id": "5855b0274e4df8d8d15a4603a7728676",
+        "name": "Scalpel",
+        "points": 70
+    },
+    {
+        "position": 16,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
         "points": 62
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
-        "points": 60
-    },
-    {
-        "position": 17,
-        "user_id": "5855b0274e4df8d8d15a4603a7728676",
-        "name": "Scalpel",
         "points": 60
     },
     {
@@ -355,56 +355,56 @@
     },
     {
         "position": 60,
+        "user_id": "b015e9d5f040e53a34e04f02247618a8",
+        "name": "n0Clue",
+        "points": 20
+    },
+    {
+        "position": 61,
         "user_id": "8bd5b40454660652a56c4715e1861cd5",
         "name": "alfred_en_nordmann",
         "points": 10
     },
     {
-        "position": 61,
+        "position": 62,
         "user_id": "d458de012bdcf070bf654b7164461718",
         "name": "vacuum",
         "points": 10
     },
     {
-        "position": 62,
+        "position": 63,
         "user_id": "c1115e5d82d98cea9ec898ec6ac717b4",
         "name": "ChestyRiggs",
         "points": 10
     },
     {
-        "position": 63,
+        "position": 64,
         "user_id": "f2567196e90998b0417b4f6ecd779308",
         "name": "N1553n",
         "points": 10
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "921e1d3873ef1959f26a2d7bea62e82e",
         "name": "SKARP FRAGLE",
         "points": 10
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "8a3abe235861194785010ee7d31b38f4",
         "name": "GRILLET KLYSE",
         "points": 10
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "d392e8d5a65f19e16327157857cbd137",
         "name": "Onkel_Skrue",
         "points": 10
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "e0991d0d8628b9f54718f027cc119326",
         "name": "NERDETE SNOK",
-        "points": 10
-    },
-    {
-        "position": 68,
-        "user_id": "b015e9d5f040e53a34e04f02247618a8",
-        "name": "n0Clue",
         "points": 10
     }
 ]
