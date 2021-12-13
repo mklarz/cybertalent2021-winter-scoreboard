@@ -13,21 +13,21 @@
     },
     {
         "position": 3,
-        "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
-        "name": "KOKETT KODEKNEKKER",
-        "points": 130
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 140
     },
     {
         "position": 4,
-        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
-        "name": "STERK KLOVN",
-        "points": 130
+        "user_id": "63cc0364a88c92094367a9e30368e9da",
+        "name": "A",
+        "points": 136
     },
     {
         "position": 5,
-        "user_id": "63cc0364a88c92094367a9e30368e9da",
-        "name": "A",
-        "points": 126
+        "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
+        "name": "KOKETT KODEKNEKKER",
+        "points": 130
     },
     {
         "position": 6,
@@ -37,20 +37,20 @@
     },
     {
         "position": 7,
+        "user_id": "d3bc88c7109f8407034595364bbef949",
+        "name": "S\u00c5RBAR HACKTIVIST",
+        "points": 120
+    },
+    {
+        "position": 8,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 110
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "6559c54a30669ee761aaef680f6bed75",
         "name": "REDUNDANT RHODODENDRON",
-        "points": 110
-    },
-    {
-        "position": 9,
-        "user_id": "d3bc88c7109f8407034595364bbef949",
-        "name": "S\u00c5RBAR HACKTIVIST",
         "points": 110
     },
     {
