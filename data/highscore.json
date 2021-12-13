@@ -253,68 +253,68 @@
     },
     {
         "position": 43,
+        "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
+        "name": "oles",
+        "points": 80
+    },
+    {
+        "position": 44,
         "user_id": "6b0b1ca17cadd8b8911faa96d5d23636",
         "name": "zup",
         "points": 70
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "7a09626dc5723e56d9186dd591910868",
         "name": "ARBEIDSLEDIG ARTIST",
         "points": 70
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "a58e4bc607dbb846967763590c5a6067",
         "name": "FORULEMPET STALLMAN",
         "points": 70
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 70
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
         "points": 70
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "723a316bedbad2f2058fe56f6db92ea8",
         "name": "GULLKANTET KODEKNEKKER",
         "points": 70
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "bd4083c225558184ed75a657da9c9c2d",
         "name": "Ulli",
         "points": 70
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "66e79d0ba2d05f40e2bed10594696230",
         "name": "roys",
         "points": 70
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 70
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "89b688fa952046a4f99297294029ca04",
         "name": "Fox",
-        "points": 70
-    },
-    {
-        "position": 53,
-        "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
-        "name": "oles",
         "points": 70
     },
     {
@@ -595,8 +595,8 @@
     },
     {
         "position": 100,
-        "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
-        "name": "margz",
-        "points": 33
+        "user_id": "acadfd2b7f521c539066608a84582e0b",
+        "name": "zigkill",
+        "points": 40
     }
 ]
