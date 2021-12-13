@@ -1,13 +1,13 @@
 {
-    "position": 87,
+    "position": 67,
     "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
     "name": "margz",
-    "points": 30,
+    "points": 33,
     "categories": {
         "1. Grunnleggende": 38,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 0,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 25,
         "3.3. Utfordringer vanskelig": 0
     }
 }
