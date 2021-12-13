@@ -1,1 +1,56 @@
-[]
+[
+    {
+        "position": 1,
+        "user_id": "4d34088fd8380a055badde43f0d63faa",
+        "name": "unblvr",
+        "points": 20
+    },
+    {
+        "position": 2,
+        "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
+        "name": "KUNNSKAPSRIK BABBAGE",
+        "points": 10
+    },
+    {
+        "position": 3,
+        "user_id": "5855b0274e4df8d8d15a4603a7728676",
+        "name": "Scalpel",
+        "points": 10
+    },
+    {
+        "position": 4,
+        "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
+        "name": "mutex",
+        "points": 10
+    },
+    {
+        "position": 5,
+        "user_id": "63cc0364a88c92094367a9e30368e9da",
+        "name": "A",
+        "points": 10
+    },
+    {
+        "position": 6,
+        "user_id": "6559c54a30669ee761aaef680f6bed75",
+        "name": "KREATIV PROGRAMMERER",
+        "points": 10
+    },
+    {
+        "position": 7,
+        "user_id": "7a09626dc5723e56d9186dd591910868",
+        "name": "ARBEIDSLEDIG ARTIST",
+        "points": 10
+    },
+    {
+        "position": 8,
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 10
+    },
+    {
+        "position": 9,
+        "user_id": "669ba81f8f1fbffebcb3bb22f926c5d6",
+        "name": "skandix",
+        "points": 10
+    }
+]
