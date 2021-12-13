@@ -9,7 +9,7 @@
         "position": 2,
         "user_id": "4d34088fd8380a055badde43f0d63faa",
         "name": "unblvr",
-        "points": 82
+        "points": 85
     },
     {
         "position": 3,
@@ -229,50 +229,50 @@
     },
     {
         "position": 39,
+        "user_id": "69445f0fe8c1800f294aabcdb979e7cf",
+        "name": "Tweey",
+        "points": 30
+    },
+    {
+        "position": 40,
+        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
+        "name": "L\u00f8va",
+        "points": 30
+    },
+    {
+        "position": 41,
         "user_id": "1ad10e4749a064b88ffe939f67460529",
         "name": "fssl",
         "points": 20
     },
     {
-        "position": 40,
+        "position": 42,
         "user_id": "66e79d0ba2d05f40e2bed10594696230",
         "name": "roys",
         "points": 20
     },
     {
-        "position": 41,
+        "position": 43,
         "user_id": "1620b55194a20420b33ec7be6dfadcfc",
         "name": "YDMYK KLOVN",
         "points": 20
     },
     {
-        "position": 42,
+        "position": 44,
         "user_id": "af16491f6c2824f7fc606c45a44e6d48",
         "name": "alynx",
         "points": 20
     },
     {
-        "position": 43,
+        "position": 45,
         "user_id": "6b7c7e44646d41548ae96fdf2057b156",
         "name": "KOKETT SNOK",
         "points": 20
     },
     {
-        "position": 44,
+        "position": 46,
         "user_id": "e529e4c7f970d7feab082ed7f60e8ad4",
         "name": "radagast",
-        "points": 20
-    },
-    {
-        "position": 45,
-        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
-        "name": "L\u00f8va",
-        "points": 20
-    },
-    {
-        "position": 46,
-        "user_id": "69445f0fe8c1800f294aabcdb979e7cf",
-        "name": "Tweey",
         "points": 20
     },
     {
@@ -303,6 +303,24 @@
         "position": 51,
         "user_id": "921e1d3873ef1959f26a2d7bea62e82e",
         "name": "SKARP FRAGLE",
+        "points": 10
+    },
+    {
+        "position": 52,
+        "user_id": "f8cf3db747cc71854ea393539dce04e7",
+        "name": "m",
+        "points": 10
+    },
+    {
+        "position": 53,
+        "user_id": "5a8acc7da8f41e6775115f418be29512",
+        "name": "RUTETE CYBERHELT",
+        "points": 10
+    },
+    {
+        "position": 54,
+        "user_id": "8a3abe235861194785010ee7d31b38f4",
+        "name": "GRILLET KLYSE",
         "points": 10
     }
 ]
