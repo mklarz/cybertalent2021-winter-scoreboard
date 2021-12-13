@@ -259,50 +259,50 @@
     },
     {
         "position": 44,
+        "user_id": "e529e4c7f970d7feab082ed7f60e8ad4",
+        "name": "radagast",
+        "points": 30
+    },
+    {
+        "position": 45,
+        "user_id": "a58e4bc607dbb846967763590c5a6067",
+        "name": "FORULEMPET STALLMAN",
+        "points": 30
+    },
+    {
+        "position": 46,
+        "user_id": "9379923905296f93a566c288050d7074",
+        "name": "STERK NOOB",
+        "points": 30
+    },
+    {
+        "position": 47,
+        "user_id": "1620b55194a20420b33ec7be6dfadcfc",
+        "name": "YDMYK KLOVN",
+        "points": 30
+    },
+    {
+        "position": 48,
         "user_id": "66e79d0ba2d05f40e2bed10594696230",
         "name": "roys",
         "points": 20
     },
     {
-        "position": 45,
-        "user_id": "1620b55194a20420b33ec7be6dfadcfc",
-        "name": "YDMYK KLOVN",
-        "points": 20
-    },
-    {
-        "position": 46,
+        "position": 49,
         "user_id": "af16491f6c2824f7fc606c45a44e6d48",
         "name": "alynx",
         "points": 20
     },
     {
-        "position": 47,
+        "position": 50,
         "user_id": "6b7c7e44646d41548ae96fdf2057b156",
         "name": "KOKETT SNOK",
         "points": 20
     },
     {
-        "position": 48,
-        "user_id": "e529e4c7f970d7feab082ed7f60e8ad4",
-        "name": "radagast",
-        "points": 20
-    },
-    {
-        "position": 49,
-        "user_id": "a58e4bc607dbb846967763590c5a6067",
-        "name": "FORULEMPET STALLMAN",
-        "points": 20
-    },
-    {
-        "position": 50,
+        "position": 51,
         "user_id": "5a8acc7da8f41e6775115f418be29512",
         "name": "Stian",
-        "points": 20
-    },
-    {
-        "position": 51,
-        "user_id": "9379923905296f93a566c288050d7074",
-        "name": "STERK NOOB",
         "points": 20
     },
     {
@@ -344,7 +344,13 @@
     {
         "position": 58,
         "user_id": "d392e8d5a65f19e16327157857cbd137",
-        "name": "GRIM MITNICK",
+        "name": "Onkel_Skrue",
+        "points": 10
+    },
+    {
+        "position": 59,
+        "user_id": "e0991d0d8628b9f54718f027cc119326",
+        "name": "NERDETE SNOK",
         "points": 10
     }
 ]
