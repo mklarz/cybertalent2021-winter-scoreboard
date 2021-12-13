@@ -31,20 +31,20 @@
     },
     {
         "position": 6,
+        "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
+        "name": "bummie",
+        "points": 120
+    },
+    {
+        "position": 7,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 110
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "6559c54a30669ee761aaef680f6bed75",
         "name": "REDUNDANT RHODODENDRON",
-        "points": 110
-    },
-    {
-        "position": 8,
-        "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
-        "name": "bummie",
         "points": 110
     },
     {
