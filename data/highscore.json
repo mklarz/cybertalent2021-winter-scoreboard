@@ -3,13 +3,13 @@
         "position": 1,
         "user_id": "4d34088fd8380a055badde43f0d63faa",
         "name": "unblvr",
-        "points": 135
+        "points": 145
     },
     {
         "position": 2,
         "user_id": "4f2a8bfa8d63d424ac961ce95623b742",
         "name": "klarz",
-        "points": 130
+        "points": 133
     },
     {
         "position": 3,
@@ -19,15 +19,15 @@
     },
     {
         "position": 4,
-        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
-        "name": "STERK KLOVN",
-        "points": 100
+        "user_id": "63cc0364a88c92094367a9e30368e9da",
+        "name": "A",
+        "points": 103
     },
     {
         "position": 5,
-        "user_id": "63cc0364a88c92094367a9e30368e9da",
-        "name": "A",
-        "points": 93
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 100
     },
     {
         "position": 6,
@@ -265,14 +265,14 @@
     },
     {
         "position": 45,
-        "user_id": "e6d266fe4168ef57d0f304b2a68e6b42",
-        "name": "S\u00c5RBAR DRAPER",
-        "points": 30
+        "user_id": "21a4a903db6e181b52188e7290959b3d",
+        "name": "Troan",
+        "points": 40
     },
     {
         "position": 46,
-        "user_id": "21a4a903db6e181b52188e7290959b3d",
-        "name": "Troan",
+        "user_id": "e6d266fe4168ef57d0f304b2a68e6b42",
+        "name": "S\u00c5RBAR DRAPER",
         "points": 30
     },
     {
@@ -531,6 +531,12 @@
         "position": 89,
         "user_id": "291427e96c3258a6a66c4bece56bda06",
         "name": "S\u00c5RBAR AGENT",
+        "points": 10
+    },
+    {
+        "position": 90,
+        "user_id": "8f28594815440bdc3d42406b06cf5ee5",
+        "name": "nightduck",
         "points": 10
     }
 ]
