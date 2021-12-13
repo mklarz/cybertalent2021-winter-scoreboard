@@ -19,20 +19,20 @@
     },
     {
         "position": 4,
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 100
+    },
+    {
+        "position": 5,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "A",
         "points": 93
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
         "name": "langemyh",
-        "points": 90
-    },
-    {
-        "position": 6,
-        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
-        "name": "STERK KLOVN",
         "points": 90
     },
     {
@@ -513,6 +513,24 @@
         "position": 86,
         "user_id": "4df66081a88a089a2b58631f1195172f",
         "name": "SVETT KLYSE",
+        "points": 10
+    },
+    {
+        "position": 87,
+        "user_id": "d6639220097909345442952a7613f733",
+        "name": "GRINETE AGENT",
+        "points": 10
+    },
+    {
+        "position": 88,
+        "user_id": "509665cd76dc68525c3ce14efa9504ab",
+        "name": "DYPTG\u00c5ENDE KODEKNEKKER",
+        "points": 10
+    },
+    {
+        "position": 89,
+        "user_id": "291427e96c3258a6a66c4bece56bda06",
+        "name": "S\u00c5RBAR AGENT",
         "points": 10
     }
 ]
