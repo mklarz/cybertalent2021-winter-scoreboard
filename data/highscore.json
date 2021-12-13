@@ -97,26 +97,26 @@
     },
     {
         "position": 17,
+        "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
+        "name": "GULLKANTET HACKER",
+        "points": 70
+    },
+    {
+        "position": 18,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
         "points": 62
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
         "points": 60
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "31bfd41cc5450c78616f5d2d52fab4f6",
         "name": "neopoznannyy",
-        "points": 60
-    },
-    {
-        "position": 20,
-        "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
-        "name": "GULLKANTET HACKER",
         "points": 60
     },
     {
@@ -217,38 +217,38 @@
     },
     {
         "position": 37,
+        "user_id": "89b688fa952046a4f99297294029ca04",
+        "name": "SOSIAL PERSON",
+        "points": 40
+    },
+    {
+        "position": 38,
         "user_id": "e6d266fe4168ef57d0f304b2a68e6b42",
         "name": "S\u00c5RBAR DRAPER",
         "points": 30
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "21a4a903db6e181b52188e7290959b3d",
         "name": "Troan",
         "points": 30
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "4d0dd882c68531ff30f1001f8dbea7b7",
         "name": "TOPP HACKER",
         "points": 30
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "d34e961d376aca2cbc1ab64888d5e76d",
         "name": "DYKTIG CYBERHELT",
         "points": 30
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "c1a40352d40e17c4870d0379041260bc",
         "name": "FLINK KODER",
-        "points": 30
-    },
-    {
-        "position": 42,
-        "user_id": "89b688fa952046a4f99297294029ca04",
-        "name": "SOSIAL PERSON",
         "points": 30
     },
     {
@@ -411,6 +411,12 @@
         "position": 69,
         "user_id": "608c597259937f6f5f78fc537652eee6",
         "name": "FORULEMPET HACKTIVIST",
+        "points": 10
+    },
+    {
+        "position": 70,
+        "user_id": "d441e13a5983959f2f0b1c022adf0b9f",
+        "name": "SUR KLOVN",
         "points": 10
     }
 ]
