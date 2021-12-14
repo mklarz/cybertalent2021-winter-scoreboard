@@ -193,92 +193,92 @@
     },
     {
         "position": 33,
+        "user_id": "a9b30fb094e533e6a30a6363226458c4",
+        "name": "Raanstad",
+        "points": 93
+    },
+    {
+        "position": 34,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
         "points": 92
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
         "name": "L\u00f8va",
         "points": 92
     },
     {
-        "position": 35,
+        "position": 36,
+        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
+        "name": "snabel-b",
+        "points": 92
+    },
+    {
+        "position": 37,
         "user_id": "796225e2767a05355eafe4222b802846",
         "name": "Zarux",
         "points": 90
     },
     {
-        "position": 36,
+        "position": 38,
         "user_id": "c78afb926507bf0b0f79da5767d519ae",
         "name": "SurBacon",
         "points": 90
     },
     {
-        "position": 37,
+        "position": 39,
         "user_id": "c1115e5d82d98cea9ec898ec6ac717b4",
         "name": "ChestyRiggs",
         "points": 90
     },
     {
-        "position": 38,
+        "position": 40,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 90
     },
     {
-        "position": 39,
+        "position": 41,
         "user_id": "a58e4bc607dbb846967763590c5a6067",
         "name": "FORULEMPET STALLMAN",
         "points": 90
     },
     {
-        "position": 40,
+        "position": 42,
         "user_id": "154fe1057ff99f2d98ad9a6e6e885679",
         "name": "wigumen",
         "points": 90
     },
     {
-        "position": 41,
+        "position": 43,
         "user_id": "9c45ca579c1b46974c5e252164486af0",
         "name": "PLAGSOM PROGRAMMERER",
         "points": 90
     },
     {
-        "position": 42,
-        "user_id": "a9b30fb094e533e6a30a6363226458c4",
-        "name": "Raanstad",
-        "points": 90
-    },
-    {
-        "position": 43,
+        "position": 44,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 90
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "bd4083c225558184ed75a657da9c9c2d",
         "name": "Ulli",
         "points": 90
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "b4f4bab0922873495f898b7d9c4f7921",
         "name": "MrFreddi007",
         "points": 83
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "669ba81f8f1fbffebcb3bb22f926c5d6",
         "name": "skandix",
-        "points": 82
-    },
-    {
-        "position": 47,
-        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
-        "name": "snabel-b",
         "points": 82
     },
     {
@@ -475,26 +475,26 @@
     },
     {
         "position": 80,
+        "user_id": "ab9720ec7c033949215a8512fd9372c6",
+        "name": "tDelDel",
+        "points": 70
+    },
+    {
+        "position": 81,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
         "points": 60
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "03330940e53fd97e6320f08080abe549",
         "name": "TAFATT ARTIST",
         "points": 60
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "509665cd76dc68525c3ce14efa9504ab",
         "name": "DYPTG\u00c5ENDE KODEKNEKKER",
-        "points": 60
-    },
-    {
-        "position": 83,
-        "user_id": "ab9720ec7c033949215a8512fd9372c6",
-        "name": "tDelDel",
         "points": 60
     },
     {
@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
+        "name": "margz",
+        "points": 53
+    },
+    {
+        "position": 98,
         "user_id": "d74dfdfafae6ccc0866c1cec67815125",
         "name": "SgtSIGSEGV",
         "points": 50
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "7fcae30a216ea527d6b51b32a7d561d6",
         "name": "BUSH DID 9/11",
         "points": 50
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "c6375f063514e43406e6046003ac1ce5",
         "name": "s1dda",
-        "points": 50
-    },
-    {
-        "position": 100,
-        "user_id": "291427e96c3258a6a66c4bece56bda06",
-        "name": "Bleron",
         "points": 50
     }
 ]
