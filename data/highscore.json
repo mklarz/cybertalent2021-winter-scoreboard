@@ -103,50 +103,50 @@
     },
     {
         "position": 18,
+        "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
+        "name": "StateOfLimbo",
+        "points": 102
+    },
+    {
+        "position": 19,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 100
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "1654fa35b6010987c9826ab018cdc6fd",
         "name": "ProjectSauron",
         "points": 100
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
         "name": "fjellape",
         "points": 100
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "c796bd1573d821793708161c997cf9a6",
         "name": "Vealending",
         "points": 100
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
         "name": "oles",
         "points": 100
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "43886867219d68113302f2d45ef389a8",
         "name": "N",
-        "points": 100
-    },
-    {
-        "position": 25,
-        "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
-        "name": "StateOfLimbo",
         "points": 100
     },
     {
@@ -373,44 +373,44 @@
     },
     {
         "position": 63,
+        "user_id": "154fe1057ff99f2d98ad9a6e6e885679",
+        "name": "wigumen",
+        "points": 70
+    },
+    {
+        "position": 64,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
         "points": 60
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "03330940e53fd97e6320f08080abe549",
         "name": "TAFATT ARTIST",
         "points": 60
     },
     {
-        "position": 65,
+        "position": 66,
         "user_id": "509665cd76dc68525c3ce14efa9504ab",
         "name": "DYPTG\u00c5ENDE KODEKNEKKER",
         "points": 60
     },
     {
-        "position": 66,
+        "position": 67,
         "user_id": "ab9720ec7c033949215a8512fd9372c6",
         "name": "tDelDel",
         "points": 60
     },
     {
-        "position": 67,
+        "position": 68,
         "user_id": "1cd091bae11ca7c9c71ebffba3aa844a",
         "name": "Parroq",
         "points": 60
     },
     {
-        "position": 68,
+        "position": 69,
         "user_id": "b99dcc5386ca0077880fd44a08a9bf6a",
         "name": "Gullreinen",
-        "points": 60
-    },
-    {
-        "position": 69,
-        "user_id": "154fe1057ff99f2d98ad9a6e6e885679",
-        "name": "wigumen",
         "points": 60
     },
     {
