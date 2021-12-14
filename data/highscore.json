@@ -127,92 +127,92 @@
     },
     {
         "position": 22,
+        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
+        "name": "snabel-b",
+        "points": 102
+    },
+    {
+        "position": 23,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 100
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "1654fa35b6010987c9826ab018cdc6fd",
         "name": "ProjectSauron",
         "points": 100
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
         "name": "fjellape",
         "points": 100
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
         "name": "oles",
         "points": 100
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "43886867219d68113302f2d45ef389a8",
         "name": "N",
         "points": 100
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "1caf7be4090690457e4f60e1a9c62d42",
         "name": "clorin",
         "points": 100
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
         "name": "decoy",
         "points": 100
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
         "name": "strauman",
         "points": 100
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
         "points": 100
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "58559963d6c037573787ab10ecfb95d4",
         "name": "RYDDIG CRACKER",
         "points": 93
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "a9b30fb094e533e6a30a6363226458c4",
         "name": "Raanstad",
         "points": 93
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
         "points": 92
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
         "name": "L\u00f8va",
-        "points": 92
-    },
-    {
-        "position": 36,
-        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
-        "name": "snabel-b",
         "points": 92
     },
     {
@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "c1a40352d40e17c4870d0379041260bc",
+        "name": "FLINK KODER",
+        "points": 60
+    },
+    {
+        "position": 98,
         "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
         "name": "margz",
         "points": 53
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "d74dfdfafae6ccc0866c1cec67815125",
         "name": "SgtSIGSEGV",
         "points": 50
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "7fcae30a216ea527d6b51b32a7d561d6",
         "name": "BUSH DID 9/11",
-        "points": 50
-    },
-    {
-        "position": 100,
-        "user_id": "c6375f063514e43406e6046003ac1ce5",
-        "name": "s1dda",
         "points": 50
     }
 ]
