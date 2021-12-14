@@ -1,10 +1,10 @@
 {
-    "position": null,
+    "position": 61,
     "user_id": "9c45ca579c1b46974c5e252164486af0",
     "name": "PLAGSOM PROGRAMMERER",
-    "points": 40,
+    "points": 80,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
