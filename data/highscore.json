@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "24d7162cfdda66ad58eeca777d320d28",
+        "name": "SNOKENDE HACKTIVIST",
+        "points": 50
+    },
+    {
+        "position": 98,
         "user_id": "0411dcbfbef0efb2d6c2152664249c4f",
         "name": "lucas",
         "points": 40
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "f3b97e0209d09d0f2d1145e1f48bf281",
         "name": "250",
         "points": 40
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "88e1df547733388f0bf5770b8a6cbaac",
         "name": "ARTISTISK KODER",
-        "points": 40
-    },
-    {
-        "position": 100,
-        "user_id": "b015e9d5f040e53a34e04f02247618a8",
-        "name": "n0Clue",
         "points": 40
     }
 ]
