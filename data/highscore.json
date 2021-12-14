@@ -25,44 +25,44 @@
     },
     {
         "position": 5,
+        "user_id": "6b0b1ca17cadd8b8911faa96d5d23636",
+        "name": "zup",
+        "points": 140
+    },
+    {
+        "position": 6,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "A",
         "points": 136
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
         "points": 136
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 130
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 120
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
         "points": 120
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "6559c54a30669ee761aaef680f6bed75",
         "name": "REDUNDANT RHODODENDRON",
-        "points": 110
-    },
-    {
-        "position": 11,
-        "user_id": "6b0b1ca17cadd8b8911faa96d5d23636",
-        "name": "zup",
         "points": 110
     },
     {
