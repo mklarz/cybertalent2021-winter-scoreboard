@@ -1,12 +1,12 @@
 {
-    "position": 2,
+    "position": 3,
     "user_id": "4f2a8bfa8d63d424ac961ce95623b742",
     "name": "klarz",
-    "points": 191,
+    "points": 193,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 77,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 50,
         "3.2. Utfordringer middels": 50,
         "3.3. Utfordringer vanskelig": 0,
         "4. Skjulte flagg": 60
