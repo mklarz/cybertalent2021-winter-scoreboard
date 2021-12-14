@@ -43,39 +43,39 @@
     },
     {
         "position": 8,
+        "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
+        "name": "Roellik",
+        "points": 136
+    },
+    {
+        "position": 9,
         "user_id": "fbbff3b0e828f6f1f4eeb58a2532768b",
         "name": "lw^cb",
         "points": 132
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 130
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 120
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
         "points": 120
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "e0991d0d8628b9f54718f027cc119326",
         "name": "NERDETE SNOK",
         "points": 120
-    },
-    {
-        "position": 13,
-        "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
-        "name": "Roellik",
-        "points": 116
     },
     {
         "position": 14,
@@ -331,38 +331,38 @@
     },
     {
         "position": 56,
+        "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
+        "name": "GronnUgle",
+        "points": 80
+    },
+    {
+        "position": 57,
         "user_id": "723a316bedbad2f2058fe56f6db92ea8",
         "name": "GULLKANTET KODEKNEKKER",
         "points": 75
     },
     {
-        "position": 57,
+        "position": 58,
         "user_id": "bd4083c225558184ed75a657da9c9c2d",
         "name": "Ulli",
         "points": 70
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "66e79d0ba2d05f40e2bed10594696230",
         "name": "roys",
         "points": 70
     },
     {
-        "position": 59,
+        "position": 60,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 70
     },
     {
-        "position": 60,
+        "position": 61,
         "user_id": "46adb9c5edd23f8905132b57f7072e12",
         "name": "S\u00c5RBAR MITNICK",
-        "points": 70
-    },
-    {
-        "position": 61,
-        "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
-        "name": "GronnUgle",
         "points": 70
     },
     {
