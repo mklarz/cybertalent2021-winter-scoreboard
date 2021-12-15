@@ -403,68 +403,68 @@
     },
     {
         "position": 68,
+        "user_id": "1ad10e4749a064b88ffe939f67460529",
+        "name": "fssl",
+        "points": 80
+    },
+    {
+        "position": 69,
         "user_id": "723a316bedbad2f2058fe56f6db92ea8",
         "name": "GULLKANTET KODEKNEKKER",
         "points": 75
     },
     {
-        "position": 69,
+        "position": 70,
         "user_id": "66e79d0ba2d05f40e2bed10594696230",
         "name": "roys",
         "points": 70
     },
     {
-        "position": 70,
+        "position": 71,
         "user_id": "21a4a903db6e181b52188e7290959b3d",
         "name": "Troan",
         "points": 70
     },
     {
-        "position": 71,
+        "position": 72,
         "user_id": "0ac64a9464d1c6034a38f65437f61e8d",
         "name": "FOKUSERT HACKER",
         "points": 70
     },
     {
-        "position": 72,
+        "position": 73,
         "user_id": "bf05d67c72e25740d3690dd57cdc4565",
         "name": "points",
         "points": 70
     },
     {
-        "position": 73,
+        "position": 74,
         "user_id": "b590bc6e7e1f7492756c5931b923be01",
         "name": "ANBEFALT SPION",
         "points": 70
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 70
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "ebc6b6af3506c2a81c4f8d6778e1c6e2",
         "name": "Augustus",
         "points": 70
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "5a8acc7da8f41e6775115f418be29512",
         "name": "Stian",
         "points": 70
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "ecb854521230084d8c5f5f4aff25043c",
         "name": "marrekanin",
-        "points": 70
-    },
-    {
-        "position": 78,
-        "user_id": "1ad10e4749a064b88ffe939f67460529",
-        "name": "fssl",
         "points": 70
     },
     {
@@ -589,14 +589,14 @@
     },
     {
         "position": 99,
-        "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
-        "name": "margz",
-        "points": 53
+        "user_id": "f5405608cedb08ad8c3b6312cd437bca",
+        "name": "moosey",
+        "points": 60
     },
     {
         "position": 100,
-        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
-        "name": "SgtSIGSEGV",
-        "points": 50
+        "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
+        "name": "margz",
+        "points": 53
     }
 ]
