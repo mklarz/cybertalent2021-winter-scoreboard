@@ -1,8 +1,8 @@
 {
-    "position": 52,
+    "position": 36,
     "user_id": "3bb9e315b28732b2758fa666f0aec323",
     "name": "<script>alert(1)</script>",
-    "points": 90,
+    "points": 100,
     "categories": {
         "1. Grunnleggende": 75,
         "2. Oppdrag": 31,
