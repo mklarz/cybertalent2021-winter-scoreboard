@@ -337,26 +337,26 @@
     },
     {
         "position": 57,
+        "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
+        "name": "Joey",
+        "points": 82
+    },
+    {
+        "position": 58,
         "user_id": "a955b5796c2185816e2c3350b4a48b8d",
         "name": "eirikff",
         "points": 80
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "b604fc1ff13286f9ecc71cd7ae81a0a8",
         "name": "enfo",
         "points": 80
     },
     {
-        "position": 59,
+        "position": 60,
         "user_id": "b18ccdac9d50bd30e19b5383d813ce38",
         "name": "BaconWaffle",
-        "points": 80
-    },
-    {
-        "position": 60,
-        "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
-        "name": "Joey",
         "points": 80
     },
     {
