@@ -55,27 +55,27 @@
     },
     {
         "position": 10,
+        "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
+        "name": "Roellik",
+        "points": 146
+    },
+    {
+        "position": 11,
         "user_id": "7a09626dc5723e56d9186dd591910868",
         "name": "ARBEIDSLEDIG ARTIST",
         "points": 142
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
         "points": 140
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 140
-    },
-    {
-        "position": 13,
-        "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
-        "name": "Roellik",
-        "points": 136
     },
     {
         "position": 14,
@@ -175,74 +175,74 @@
     },
     {
         "position": 30,
+        "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
+        "name": "Joey",
+        "points": 102
+    },
+    {
+        "position": 31,
+        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
+        "name": "L\u00f8va",
+        "points": 102
+    },
+    {
+        "position": 32,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 31,
+        "position": 33,
         "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
         "name": "oles",
         "points": 100
     },
     {
-        "position": 32,
+        "position": 34,
         "user_id": "1caf7be4090690457e4f60e1a9c62d42",
         "name": "clorin",
         "points": 100
     },
     {
-        "position": 33,
+        "position": 35,
         "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
         "name": "decoy",
         "points": 100
     },
     {
-        "position": 34,
+        "position": 36,
         "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
         "name": "strauman",
         "points": 100
     },
     {
-        "position": 35,
+        "position": 37,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
         "points": 100
     },
     {
-        "position": 36,
+        "position": 38,
         "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
         "name": "GronnUgle",
         "points": 100
     },
     {
-        "position": 37,
+        "position": 39,
         "user_id": "58559963d6c037573787ab10ecfb95d4",
         "name": "RYDDIG CRACKER",
         "points": 93
     },
     {
-        "position": 38,
+        "position": 40,
         "user_id": "a9b30fb094e533e6a30a6363226458c4",
         "name": "Raanstad",
         "points": 93
     },
     {
-        "position": 39,
+        "position": 41,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
-        "points": 92
-    },
-    {
-        "position": 40,
-        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
-        "name": "L\u00f8va",
-        "points": 92
-    },
-    {
-        "position": 41,
-        "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
-        "name": "Joey",
         "points": 92
     },
     {
@@ -487,116 +487,116 @@
     },
     {
         "position": 82,
+        "user_id": "1cd091bae11ca7c9c71ebffba3aa844a",
+        "name": "Parroq",
+        "points": 80
+    },
+    {
+        "position": 83,
         "user_id": "723a316bedbad2f2058fe56f6db92ea8",
         "name": "GULLKANTET KODEKNEKKER",
         "points": 75
     },
     {
-        "position": 83,
+        "position": 84,
         "user_id": "21a4a903db6e181b52188e7290959b3d",
         "name": "Troan",
         "points": 70
     },
     {
-        "position": 84,
+        "position": 85,
         "user_id": "0ac64a9464d1c6034a38f65437f61e8d",
         "name": "FOKUSERT HACKER",
         "points": 70
     },
     {
-        "position": 85,
+        "position": 86,
         "user_id": "bf05d67c72e25740d3690dd57cdc4565",
         "name": "points",
         "points": 70
     },
     {
-        "position": 86,
+        "position": 87,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 70
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "5a8acc7da8f41e6775115f418be29512",
         "name": "Stian",
         "points": 70
     },
     {
-        "position": 88,
+        "position": 89,
         "user_id": "ecb854521230084d8c5f5f4aff25043c",
         "name": "marrekanin",
         "points": 70
     },
     {
-        "position": 89,
+        "position": 90,
         "user_id": "3f179c20a1d1842eac4bc088449a3c60",
         "name": "SOSIAL BABBAGE",
         "points": 70
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "ab9720ec7c033949215a8512fd9372c6",
         "name": "tDelDel",
         "points": 70
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "4df66081a88a089a2b58631f1195172f",
         "name": "SVETT KLYSE",
         "points": 70
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
         "points": 70
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "5a8b9c30f488bf2051d74bd2eea665d6",
         "name": "SOSIAL KODEKNEKKER",
         "points": 70
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "af16491f6c2824f7fc606c45a44e6d48",
         "name": "alynx",
         "points": 70
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "4994544662ea620a2328a33d8614f386",
         "name": "st.hans",
         "points": 70
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "bda802eac16879a2fb1fd03da9fb26e7",
         "name": "comfy",
         "points": 70
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "6cee1c52697b7fa4b55f658e06e09787",
         "name": "Moldevort",
         "points": 70
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "7ec15b2a3b963b50bb4e6615730ad9da",
         "name": "pingu",
         "points": 70
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "505b231b1cfb325a2c642358f069cee1",
         "name": "KarsE",
         "points": 70
-    },
-    {
-        "position": 100,
-        "user_id": "03330940e53fd97e6320f08080abe549",
-        "name": "TAFATT ARTIST",
-        "points": 60
     }
 ]
