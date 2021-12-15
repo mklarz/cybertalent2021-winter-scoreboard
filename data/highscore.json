@@ -19,26 +19,26 @@
     },
     {
         "position": 4,
+        "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
+        "name": "KOKETT KODEKNEKKER",
+        "points": 156
+    },
+    {
+        "position": 5,
         "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
         "name": "STERK KLOVN",
         "points": 150
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 150
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "A",
-        "points": 146
-    },
-    {
-        "position": 7,
-        "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
-        "name": "KOKETT KODEKNEKKER",
         "points": 146
     },
     {
@@ -583,20 +583,20 @@
     },
     {
         "position": 98,
+        "user_id": "6b7c7e44646d41548ae96fdf2057b156",
+        "name": "KOKETT SNOK",
+        "points": 60
+    },
+    {
+        "position": 99,
         "user_id": "4b649edca2dad245a0bf61cb3ed606a6",
         "name": "margz",
         "points": 53
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "d74dfdfafae6ccc0866c1cec67815125",
         "name": "SgtSIGSEGV",
-        "points": 50
-    },
-    {
-        "position": 100,
-        "user_id": "7fcae30a216ea527d6b51b32a7d561d6",
-        "name": "BUSH DID 9/11",
         "points": 50
     }
 ]
