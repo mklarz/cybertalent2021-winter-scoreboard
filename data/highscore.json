@@ -73,38 +73,38 @@
     },
     {
         "position": 13,
+        "user_id": "7a09626dc5723e56d9186dd591910868",
+        "name": "ARBEIDSLEDIG ARTIST",
+        "points": 132
+    },
+    {
+        "position": 14,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 130
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "e0991d0d8628b9f54718f027cc119326",
         "name": "NERDETE SNOK",
         "points": 130
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "43886867219d68113302f2d45ef389a8",
         "name": "N",
         "points": 130
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 130
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
         "name": "snabel-b",
-        "points": 112
-    },
-    {
-        "position": 18,
-        "user_id": "7a09626dc5723e56d9186dd591910868",
-        "name": "ARBEIDSLEDIG ARTIST",
         "points": 112
     },
     {
