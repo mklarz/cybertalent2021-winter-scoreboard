@@ -67,21 +67,21 @@
     },
     {
         "position": 12,
+        "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
+        "name": "StateOfLimbo",
+        "points": 142
+    },
+    {
+        "position": 13,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
         "points": 140
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 140
-    },
-    {
-        "position": 14,
-        "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
-        "name": "StateOfLimbo",
-        "points": 132
     },
     {
         "position": 15,
@@ -247,50 +247,50 @@
     },
     {
         "position": 42,
+        "user_id": "bd4083c225558184ed75a657da9c9c2d",
+        "name": "Ulli",
+        "points": 92
+    },
+    {
+        "position": 43,
         "user_id": "796225e2767a05355eafe4222b802846",
         "name": "Zarux",
         "points": 90
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "c78afb926507bf0b0f79da5767d519ae",
         "name": "SurBacon",
         "points": 90
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "c1115e5d82d98cea9ec898ec6ac717b4",
         "name": "ChestyRiggs",
         "points": 90
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 90
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "a58e4bc607dbb846967763590c5a6067",
         "name": "FORULEMPET STALLMAN",
         "points": 90
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "9c45ca579c1b46974c5e252164486af0",
         "name": "PLAGSOM PROGRAMMERER",
         "points": 90
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
-        "points": 90
-    },
-    {
-        "position": 49,
-        "user_id": "bd4083c225558184ed75a657da9c9c2d",
-        "name": "Ulli",
         "points": 90
     },
     {
