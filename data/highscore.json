@@ -373,20 +373,20 @@
     },
     {
         "position": 63,
+        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
+        "name": "Bjarnesen",
+        "points": 85
+    },
+    {
+        "position": 64,
         "user_id": "b4f4bab0922873495f898b7d9c4f7921",
         "name": "MrFreddi007",
         "points": 83
     },
     {
-        "position": 64,
+        "position": 65,
         "user_id": "669ba81f8f1fbffebcb3bb22f926c5d6",
         "name": "skandix",
-        "points": 82
-    },
-    {
-        "position": 65,
-        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
-        "name": "Bjarnesen",
         "points": 82
     },
     {
