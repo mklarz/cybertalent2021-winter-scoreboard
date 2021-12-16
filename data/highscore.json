@@ -97,26 +97,26 @@
     },
     {
         "position": 17,
+        "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
+        "name": "fjellape",
+        "points": 140
+    },
+    {
+        "position": 18,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG SKUGGE",
         "points": 130
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "e0991d0d8628b9f54718f027cc119326",
         "name": "NERDETE SNOK",
         "points": 130
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
-        "points": 130
-    },
-    {
-        "position": 20,
-        "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
-        "name": "fjellape",
         "points": 130
     },
     {
@@ -223,122 +223,122 @@
     },
     {
         "position": 38,
+        "user_id": "61e75504752ff59ff784e904a2d8629a",
+        "name": "NERDETE HACKTIVIST",
+        "points": 102
+    },
+    {
+        "position": 39,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "1caf7be4090690457e4f60e1a9c62d42",
         "name": "clorin",
         "points": 100
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
         "name": "decoy",
         "points": 100
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
         "name": "strauman",
         "points": 100
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
         "points": 100
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
         "name": "GronnUgle",
         "points": 100
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
         "points": 100
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "41e4a81bd400182bd14fd104498a6d8c",
         "name": "GRIM DRAPER",
         "points": 100
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "ab9720ec7c033949215a8512fd9372c6",
         "name": "tDelDel",
         "points": 100
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "ebc6b6af3506c2a81c4f8d6778e1c6e2",
         "name": "Augustus",
         "points": 100
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "5a8acc7da8f41e6775115f418be29512",
         "name": "Stian",
         "points": 100
     },
     {
-        "position": 49,
+        "position": 50,
+        "user_id": "e0b66d3963c83f98ec5639086bbf2988",
+        "name": "tronderhack",
+        "points": 100
+    },
+    {
+        "position": 51,
         "user_id": "a9b30fb094e533e6a30a6363226458c4",
         "name": "Raanstad",
         "points": 93
     },
     {
-        "position": 50,
+        "position": 52,
         "user_id": "952646997aa1eb918a1e5ad2dc102a06",
         "name": "Sithis",
         "points": 92
     },
     {
-        "position": 51,
-        "user_id": "61e75504752ff59ff784e904a2d8629a",
-        "name": "NERDETE HACKTIVIST",
-        "points": 92
-    },
-    {
-        "position": 52,
+        "position": 53,
         "user_id": "796225e2767a05355eafe4222b802846",
         "name": "Zarux",
         "points": 90
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "c78afb926507bf0b0f79da5767d519ae",
         "name": "SurBacon",
         "points": 90
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 90
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "a58e4bc607dbb846967763590c5a6067",
         "name": "FORULEMPET STALLMAN",
         "points": 90
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "9c45ca579c1b46974c5e252164486af0",
         "name": "PLAGSOM PROGRAMMERER",
-        "points": 90
-    },
-    {
-        "position": 57,
-        "user_id": "e0b66d3963c83f98ec5639086bbf2988",
-        "name": "tronderhack",
         "points": 90
     },
     {
