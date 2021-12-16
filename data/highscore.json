@@ -13,14 +13,14 @@
     },
     {
         "position": 3,
-        "user_id": "2bcdbedb5a61e9c5f75a8d2e87ee6430",
-        "name": "zup",
-        "points": 222
+        "user_id": "d3bc88c7109f8407034595364bbef949",
+        "name": "nordbo",
+        "points": 224
     },
     {
         "position": 4,
-        "user_id": "d3bc88c7109f8407034595364bbef949",
-        "name": "nordbo",
+        "user_id": "2bcdbedb5a61e9c5f75a8d2e87ee6430",
+        "name": "zup",
         "points": 222
     },
     {
@@ -163,27 +163,27 @@
     },
     {
         "position": 28,
+        "user_id": "58559963d6c037573787ab10ecfb95d4",
+        "name": "starsiv",
+        "points": 125
+    },
+    {
+        "position": 29,
         "user_id": "4b3b9202ba1f5b90d7a7ccb5cb1a236f",
         "name": "FORULEMPET GUD",
         "points": 123
     },
     {
-        "position": 29,
-        "user_id": "e0b66d3963c83f98ec5639086bbf2988",
-        "name": "tronderhack",
-        "points": 120
-    },
-    {
         "position": 30,
-        "user_id": "58559963d6c037573787ab10ecfb95d4",
-        "name": "starsiv",
-        "points": 115
+        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
+        "name": "snabel-b",
+        "points": 122
     },
     {
         "position": 31,
-        "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
-        "name": "snabel-b",
-        "points": 112
+        "user_id": "e0b66d3963c83f98ec5639086bbf2988",
+        "name": "tronderhack",
+        "points": 120
     },
     {
         "position": 32,
@@ -595,8 +595,8 @@
     },
     {
         "position": 100,
-        "user_id": "723a316bedbad2f2058fe56f6db92ea8",
-        "name": "GULLKANTET KODEKNEKKER",
-        "points": 75
+        "user_id": "7ec15b2a3b963b50bb4e6615730ad9da",
+        "name": "pingu",
+        "points": 80
     }
 ]
