@@ -13,10 +13,10 @@ python3 "$SCRIPT_PATH/check_scoreboard.py"
 
 if [[ `git status --porcelain` ]]; then
 	echo "There are differences, updating"
+  python3 "$SCRIPT_PATH/generate_html.py"
 	git add -A
 	git commit -m "[SCOREBOARD] Update"
 	git push origin main
-  # TODO: python3 "$SCRIPT_PATH/generate_series.py"
 else
 	echo "No differences"
 fi
