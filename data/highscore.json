@@ -547,56 +547,56 @@
     },
     {
         "position": 92,
+        "user_id": "f6776cffb2cede6b5d54957956d26d54",
+        "name": "Shirajuki",
+        "points": 80
+    },
+    {
+        "position": 93,
         "user_id": "723a316bedbad2f2058fe56f6db92ea8",
         "name": "GULLKANTET KODEKNEKKER",
         "points": 75
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "21a4a903db6e181b52188e7290959b3d",
         "name": "Troan",
         "points": 70
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "0ac64a9464d1c6034a38f65437f61e8d",
         "name": "FOKUSERT HACKER",
         "points": 70
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "bf05d67c72e25740d3690dd57cdc4565",
         "name": "points",
         "points": 70
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 70
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "4df66081a88a089a2b58631f1195172f",
         "name": "SVETT KLYSE",
         "points": 70
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "6f4fff47757642c4f23a032f4f6a39b3",
         "name": "KREVENDE NERD",
         "points": 70
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "5a8b9c30f488bf2051d74bd2eea665d6",
         "name": "SOSIAL KODEKNEKKER",
-        "points": 70
-    },
-    {
-        "position": 100,
-        "user_id": "4994544662ea620a2328a33d8614f386",
-        "name": "st.hans",
         "points": 70
     }
 ]
