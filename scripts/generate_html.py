@@ -2,7 +2,7 @@ import re
 import os
 import json
 import glob
-
+import bleach
 
 
 SCRIPT_PATH = os.path.dirname(os.path.realpath(__file__))
@@ -48,7 +48,7 @@ for user_id in USERS:
     position_str = "{}. plass".format(user_data["position"]) if user_data["position"] else "Ukjent plassering"
 
     user_html = user_template
-    user_html = user_html.replace("{USER_NAME}", user_data["name"])
+    user_html = user_html.replace("{USER_NAME}", bleach.clean(user_data["name"]))
     user_html = user_html.replace("{USER_POINTS}", str(user_data["points"]))
     user_html = user_html.replace("{USER_POSITION}", position_str)
     categories_html = ""
@@ -70,7 +70,7 @@ with open(HIGHSCORE_JSON_PATH) as f:
     for user in highscore:
         highscore_users_html += HIGHSCORE_LIST_ITEM_HTML_FORMAT.format(
                 user["user_id"],
-                user["name"],
+                bleach.clean(user["name"]),
                 user["points"],
         )
     highscore_html = highscore_html.replace("{USERS}", highscore_users_html)
