@@ -115,44 +115,44 @@
     },
     {
         "position": 20,
+        "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
+        "name": "strauman",
+        "points": 140
+    },
+    {
+        "position": 21,
         "user_id": "c796bd1573d821793708161c997cf9a6",
         "name": "Vealending",
         "points": 134
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
         "name": "Joey",
         "points": 132
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
         "points": 130
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "e0991d0d8628b9f54718f027cc119326",
         "name": "NERDETE SNOK",
         "points": 130
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
         "points": 130
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "c1115e5d82d98cea9ec898ec6ac717b4",
         "name": "ChestyRiggs",
-        "points": 130
-    },
-    {
-        "position": 26,
-        "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
-        "name": "strauman",
         "points": 130
     },
     {
