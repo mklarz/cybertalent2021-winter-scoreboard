@@ -25,21 +25,21 @@
     },
     {
         "position": 5,
+        "user_id": "7a09626dc5723e56d9186dd591910868",
+        "name": "ciphr",
+        "points": 212
+    },
+    {
+        "position": 6,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
         "points": 194
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "A",
         "points": 193
-    },
-    {
-        "position": 7,
-        "user_id": "7a09626dc5723e56d9186dd591910868",
-        "name": "ciphr",
-        "points": 187
     },
     {
         "position": 8,
@@ -187,20 +187,20 @@
     },
     {
         "position": 32,
+        "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
+        "name": "thronic",
+        "points": 130
+    },
+    {
+        "position": 33,
         "user_id": "58559963d6c037573787ab10ecfb95d4",
         "name": "starsiv",
         "points": 125
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
-        "points": 120
-    },
-    {
-        "position": 34,
-        "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
-        "name": "thronic",
         "points": 120
     },
     {
