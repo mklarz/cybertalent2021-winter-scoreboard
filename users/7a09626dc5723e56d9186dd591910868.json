@@ -1,14 +1,14 @@
 {
-    "position": 9,
+    "position": 6,
     "user_id": "7a09626dc5723e56d9186dd591910868",
     "name": "ARBEIDSLEDIG ARTIST",
-    "points": 172,
+    "points": 187,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Oppdrag": 69,
+        "2. Oppdrag": 77,
         "3.1. Utfordringer lett": 50,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 40
+        "4. Skjulte flagg": 60
     }
 }
