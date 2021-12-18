@@ -265,21 +265,21 @@
     },
     {
         "position": 45,
+        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
+        "name": "L\u00f8va",
+        "points": 106
+    },
+    {
+        "position": 46,
         "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
         "name": "langemyh",
         "points": 105
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "1654fa35b6010987c9826ab018cdc6fd",
         "name": "ProjectSauron",
         "points": 104
-    },
-    {
-        "position": 47,
-        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
-        "name": "L\u00f8va",
-        "points": 102
     },
     {
         "position": 48,
