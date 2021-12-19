@@ -133,32 +133,32 @@
     },
     {
         "position": 23,
+        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
+        "name": "SgtSIGSEGV",
+        "points": 150
+    },
+    {
+        "position": 24,
         "user_id": "796225e2767a05355eafe4222b802846",
         "name": "Zarux",
         "points": 142
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
         "points": 140
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "154fe1057ff99f2d98ad9a6e6e885679",
         "name": "wigumen",
         "points": 140
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "c1115e5d82d98cea9ec898ec6ac717b4",
         "name": "ChestyRiggs",
-        "points": 140
-    },
-    {
-        "position": 27,
-        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
-        "name": "SgtSIGSEGV",
         "points": 140
     },
     {
