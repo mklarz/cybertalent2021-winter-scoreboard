@@ -247,38 +247,38 @@
     },
     {
         "position": 42,
+        "user_id": "31bfd41cc5450c78616f5d2d52fab4f6",
+        "name": "neopoznannyy",
+        "points": 120
+    },
+    {
+        "position": 43,
         "user_id": "61e75504752ff59ff784e904a2d8629a",
         "name": "NERDETE HACKTIVIST",
         "points": 112
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "6559c54a30669ee761aaef680f6bed75",
         "name": "REDUNDANT RHODODENDRON",
         "points": 110
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "1ad006dfd66ff7eec342b8a27fa8ea99",
         "name": "GRINETE MITNICK",
         "points": 110
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "3bb9e315b28732b2758fa666f0aec323",
         "name": "<script>alert(1)</script>",
         "points": 110
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "1ad10e4749a064b88ffe939f67460529",
         "name": "fssl",
-        "points": 110
-    },
-    {
-        "position": 47,
-        "user_id": "31bfd41cc5450c78616f5d2d52fab4f6",
-        "name": "neopoznannyy",
         "points": 110
     },
     {
