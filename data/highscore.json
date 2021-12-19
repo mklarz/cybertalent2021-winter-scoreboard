@@ -73,21 +73,21 @@
     },
     {
         "position": 13,
+        "user_id": "5855b0274e4df8d8d15a4603a7728676",
+        "name": "Scalpel",
+        "points": 175
+    },
+    {
+        "position": 14,
         "user_id": "43886867219d68113302f2d45ef389a8",
         "name": "N",
         "points": 170
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
         "name": "Roellik",
         "points": 166
-    },
-    {
-        "position": 15,
-        "user_id": "5855b0274e4df8d8d15a4603a7728676",
-        "name": "Scalpel",
-        "points": 165
     },
     {
         "position": 16,
