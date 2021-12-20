@@ -7,21 +7,21 @@
     },
     {
         "position": 2,
+        "user_id": "d3bc88c7109f8407034595364bbef949",
+        "name": "nordbo",
+        "points": 231
+    },
+    {
+        "position": 3,
         "user_id": "4f2a8bfa8d63d424ac961ce95623b742",
         "name": "klarz",
         "points": 230
     },
     {
-        "position": 3,
+        "position": 4,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "Arkanor",
         "points": 228
-    },
-    {
-        "position": 4,
-        "user_id": "d3bc88c7109f8407034595364bbef949",
-        "name": "nordbo",
-        "points": 227
     },
     {
         "position": 5,
@@ -73,27 +73,27 @@
     },
     {
         "position": 13,
+        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
+        "name": "SgtSIGSEGV",
+        "points": 185
+    },
+    {
+        "position": 14,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 177
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
         "points": 176
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
         "points": 175
-    },
-    {
-        "position": 16,
-        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
-        "name": "SgtSIGSEGV",
-        "points": 170
     },
     {
         "position": 17,
@@ -241,32 +241,32 @@
     },
     {
         "position": 41,
+        "user_id": "03330940e53fd97e6320f08080abe549",
+        "name": "TAFATT ARTIST",
+        "points": 130
+    },
+    {
+        "position": 42,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 120
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 120
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 120
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
-        "points": 120
-    },
-    {
-        "position": 45,
-        "user_id": "03330940e53fd97e6320f08080abe549",
-        "name": "TAFATT ARTIST",
         "points": 120
     },
     {
