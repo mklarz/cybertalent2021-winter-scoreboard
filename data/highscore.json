@@ -73,26 +73,26 @@
     },
     {
         "position": 13,
+        "user_id": "9b36a7b8284f0baaca344a4f77db4d54",
+        "name": "REDUNDANT RHODODENDRON II",
+        "points": 179
+    },
+    {
+        "position": 14,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 177
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
         "points": 176
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
-        "points": 175
-    },
-    {
-        "position": 16,
-        "user_id": "9b36a7b8284f0baaca344a4f77db4d54",
-        "name": "REDUNDANT RHODODENDRON II",
         "points": 175
     },
     {
