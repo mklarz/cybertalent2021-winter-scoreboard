@@ -61,33 +61,33 @@
     },
     {
         "position": 11,
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 195
+    },
+    {
+        "position": 12,
         "user_id": "43886867219d68113302f2d45ef389a8",
         "name": "N",
         "points": 185
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 177
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
         "points": 176
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "5855b0274e4df8d8d15a4603a7728676",
         "name": "Scalpel",
         "points": 175
-    },
-    {
-        "position": 15,
-        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
-        "name": "STERK KLOVN",
-        "points": 170
     },
     {
         "position": 16,
