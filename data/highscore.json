@@ -91,32 +91,32 @@
     },
     {
         "position": 16,
+        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
+        "name": "SgtSIGSEGV",
+        "points": 170
+    },
+    {
+        "position": 17,
         "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
         "name": "Roellik",
         "points": 166
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "58559963d6c037573787ab10ecfb95d4",
         "name": "starsiv",
         "points": 165
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
         "name": "decoy",
         "points": 160
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "6cabdfb370e4801eeaed6b4b019dae6e",
         "name": "SharpsyD",
-        "points": 160
-    },
-    {
-        "position": 20,
-        "user_id": "d74dfdfafae6ccc0866c1cec67815125",
-        "name": "SgtSIGSEGV",
         "points": 160
     },
     {
@@ -235,38 +235,38 @@
     },
     {
         "position": 40,
+        "user_id": "6559c54a30669ee761aaef680f6bed75",
+        "name": "REDUNDANT RHODODENDRON",
+        "points": 130
+    },
+    {
+        "position": 41,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 120
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 120
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 120
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
         "points": 120
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "03330940e53fd97e6320f08080abe549",
         "name": "TAFATT ARTIST",
-        "points": 120
-    },
-    {
-        "position": 45,
-        "user_id": "6559c54a30669ee761aaef680f6bed75",
-        "name": "REDUNDANT RHODODENDRON",
         "points": 120
     },
     {
