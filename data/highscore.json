@@ -9,7 +9,7 @@
         "position": 2,
         "user_id": "d3bc88c7109f8407034595364bbef949",
         "name": "nordbo",
-        "points": 234
+        "points": 238
     },
     {
         "position": 3,
@@ -253,44 +253,44 @@
     },
     {
         "position": 43,
+        "user_id": "577431702aaf6c3aa18a2e8a98246181",
+        "name": "FOKUSERT HACKTIVIST",
+        "points": 120
+    },
+    {
+        "position": 44,
         "user_id": "e0b66d3963c83f98ec5639086bbf2988",
         "name": "tronderhack",
         "points": 120
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 120
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "b8c44997e0ec68fa24a542f514bcd9ca",
         "name": "zanmat0",
         "points": 120
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "945419bc3ddc9f8ee884b927a01933b8",
         "name": "eas",
         "points": 120
     },
     {
-        "position": 47,
+        "position": 48,
         "user_id": "61e75504752ff59ff784e904a2d8629a",
         "name": "NERDETE HACKTIVIST",
         "points": 112
     },
     {
-        "position": 48,
+        "position": 49,
         "user_id": "1ad10e4749a064b88ffe939f67460529",
         "name": "fssl",
-        "points": 110
-    },
-    {
-        "position": 49,
-        "user_id": "577431702aaf6c3aa18a2e8a98246181",
-        "name": "FOKUSERT HACKTIVIST",
         "points": 110
     },
     {
