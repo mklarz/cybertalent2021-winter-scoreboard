@@ -68,7 +68,7 @@ for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
     # Extract all the user information
     user_id = re.search(r"'/u/(.*?)'", li["onclick"]).group(1)
     points = li.find("span", class_="sum").text.strip()
-    username = li.find("span", class_="navn").text.strip()[:-len(points)]
+    username = li.find("span", class_="navn").text.strip()
 
 
     # Initialize the user object and add it to the highscore table
