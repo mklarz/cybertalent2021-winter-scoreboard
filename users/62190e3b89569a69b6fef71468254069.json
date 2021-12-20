@@ -1,7 +1,7 @@
 {
-    "position": null,
-    "user_id": "1cd091bae11ca7c9c71ebffba3aa844a",
-    "name": "Parroq",
+    "position": 99,
+    "user_id": "62190e3b89569a69b6fef71468254069",
+    "name": "SVAK AGENT",
     "points": 80,
     "categories": {
         "1. Grunnleggende": 88,
@@ -9,6 +9,7 @@
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
+        "3.4. Utfordringer umulig": 7,
         "4. Skjulte flagg": 20
     }
 }
