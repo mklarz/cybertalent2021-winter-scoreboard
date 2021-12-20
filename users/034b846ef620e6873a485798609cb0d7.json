@@ -1,14 +1,14 @@
 {
-    "position": 95,
+    "position": 66,
     "user_id": "034b846ef620e6873a485798609cb0d7",
     "name": "Enshar",
-    "points": 90,
+    "points": 100,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Oppdrag": 8,
+        "2. Oppdrag": 15,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 20
     }
 }
