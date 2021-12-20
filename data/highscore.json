@@ -565,38 +565,38 @@
     },
     {
         "position": 95,
+        "user_id": "034b846ef620e6873a485798609cb0d7",
+        "name": "Enshar",
+        "points": 90
+    },
+    {
+        "position": 96,
         "user_id": "1999c149b2fcbb5d43d86784a28cb323",
         "name": "KOKETT FRAGLE",
         "points": 84
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "557b2b6c0f3d1d6f458226b987bab2b4",
         "name": "Sn\u00f8mannen",
         "points": 84
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "b4f4bab0922873495f898b7d9c4f7921",
         "name": "MrFreddi007",
         "points": 83
     },
     {
-        "position": 98,
-        "user_id": "669ba81f8f1fbffebcb3bb22f926c5d6",
-        "name": "skandix",
-        "points": 82
-    },
-    {
         "position": 99,
         "user_id": "62190e3b89569a69b6fef71468254069",
         "name": "SVAK AGENT",
-        "points": 80
+        "points": 82
     },
     {
         "position": 100,
-        "user_id": "a955b5796c2185816e2c3350b4a48b8d",
-        "name": "eirikff",
-        "points": 80
+        "user_id": "669ba81f8f1fbffebcb3bb22f926c5d6",
+        "name": "skandix",
+        "points": 82
     }
 ]
