@@ -295,63 +295,63 @@
     },
     {
         "position": 50,
+        "user_id": "952646997aa1eb918a1e5ad2dc102a06",
+        "name": "Sithis",
+        "points": 110
+    },
+    {
+        "position": 51,
         "user_id": "1ad10e4749a064b88ffe939f67460529",
         "name": "fssl",
         "points": 110
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "3bb9e315b28732b2758fa666f0aec323",
         "name": "<script>alert(1)</script>",
         "points": 110
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "1ad006dfd66ff7eec342b8a27fa8ea99",
         "name": "GRINETE MITNICK",
         "points": 110
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "f8cf3db747cc71854ea393539dce04e7",
         "name": "m",
         "points": 106
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
         "name": "langemyh",
         "points": 105
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "1654fa35b6010987c9826ab018cdc6fd",
         "name": "ProjectSauron",
         "points": 104
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "bd4083c225558184ed75a657da9c9c2d",
         "name": "Ulli",
         "points": 102
     },
     {
-        "position": 57,
+        "position": 58,
         "user_id": "376520bb2a44eed8fce7d5366c0409ab",
         "name": "ulli",
         "points": 102
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
         "name": "oles",
         "points": 102
-    },
-    {
-        "position": 59,
-        "user_id": "952646997aa1eb918a1e5ad2dc102a06",
-        "name": "Sithis",
-        "points": 100
     },
     {
         "position": 60,
