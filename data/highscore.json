@@ -51,25 +51,25 @@
         "position": 9,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
-        "points": 210
+        "points": 220
     },
     {
         "position": 10,
+        "user_id": "43886867219d68113302f2d45ef389a8",
+        "name": "N",
+        "points": 220
+    },
+    {
+        "position": 11,
         "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
         "name": "STERK KLOVN",
         "points": 197
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "dfe1d69848da4b1345f0cf0d8c11f8bb",
         "name": "bummie",
         "points": 187
-    },
-    {
-        "position": 12,
-        "user_id": "43886867219d68113302f2d45ef389a8",
-        "name": "N",
-        "points": 185
     },
     {
         "position": 13,
@@ -109,44 +109,44 @@
     },
     {
         "position": 19,
+        "user_id": "229b46473311a42d28dfbf88198265da",
+        "name": "KUL GEEK",
+        "points": 160
+    },
+    {
+        "position": 20,
         "user_id": "6cabdfb370e4801eeaed6b4b019dae6e",
         "name": "SharpsyD",
         "points": 160
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "5df18ba15a0bf2f0e014d481b3d4e112",
         "name": "decoy",
         "points": 160
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "d6694e7e198a40612e39c8129ec5d3ac",
         "name": "strauman",
         "points": 160
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
         "name": "fjellape",
         "points": 152
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
         "name": "Joey",
         "points": 152
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
-        "points": 150
-    },
-    {
-        "position": 25,
-        "user_id": "229b46473311a42d28dfbf88198265da",
-        "name": "KUL GEEK",
         "points": 150
     },
     {
