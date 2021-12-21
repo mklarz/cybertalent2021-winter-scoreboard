@@ -145,21 +145,21 @@
     },
     {
         "position": 25,
+        "user_id": "229b46473311a42d28dfbf88198265da",
+        "name": "KUL GEEK",
+        "points": 150
+    },
+    {
+        "position": 26,
         "user_id": "3f179c20a1d1842eac4bc088449a3c60",
         "name": "halvis",
         "points": 150
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "796225e2767a05355eafe4222b802846",
         "name": "Zarux",
         "points": 142
-    },
-    {
-        "position": 27,
-        "user_id": "229b46473311a42d28dfbf88198265da",
-        "name": "KUL GEEK",
-        "points": 140
     },
     {
         "position": 28,
