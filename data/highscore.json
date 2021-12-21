@@ -481,20 +481,20 @@
     },
     {
         "position": 81,
+        "user_id": "6b228c756206cf3ce119c372c9e561bb",
+        "name": "DWG",
+        "points": 93
+    },
+    {
+        "position": 82,
         "user_id": "a9b30fb094e533e6a30a6363226458c4",
         "name": "Raanstad",
         "points": 93
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "af16491f6c2824f7fc606c45a44e6d48",
         "name": "alynx",
-        "points": 93
-    },
-    {
-        "position": 83,
-        "user_id": "6b228c756206cf3ce119c372c9e561bb",
-        "name": "DWG",
         "points": 93
     },
     {
