@@ -1,12 +1,12 @@
 {
-    "position": 64,
+    "position": 29,
     "user_id": "2a3c4718d2588ddd005eab90ba1fd351",
     "name": "FLINK BABBAGE",
-    "points": 110,
+    "points": 150,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 100,
         "2. Oppdrag": 54,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 50,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
         "4. Skjulte flagg": 0
