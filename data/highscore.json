@@ -25,20 +25,20 @@
     },
     {
         "position": 5,
+        "user_id": "fbbff3b0e828f6f1f4eeb58a2532768b",
+        "name": "larsw",
+        "points": 230
+    },
+    {
+        "position": 6,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "Arkanor",
         "points": 228
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
         "name": "StateOfLimbo",
-        "points": 227
-    },
-    {
-        "position": 7,
-        "user_id": "fbbff3b0e828f6f1f4eeb58a2532768b",
-        "name": "larsw",
         "points": 227
     },
     {
