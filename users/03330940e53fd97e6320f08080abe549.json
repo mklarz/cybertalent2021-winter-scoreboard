@@ -1,14 +1,14 @@
 {
-    "position": 56,
+    "position": 49,
     "user_id": "03330940e53fd97e6320f08080abe549",
     "name": "TAFATT ARTIST",
-    "points": 130,
+    "points": 134,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 38,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
-        "3.3. Utfordringer vanskelig": 0,
+        "3.3. Utfordringer vanskelig": 20,
         "4. Skjulte flagg": 20
     }
 }
