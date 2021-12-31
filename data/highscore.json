@@ -31,26 +31,26 @@
     },
     {
         "position": 6,
+        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
+        "name": "STERK KLOVN",
+        "points": 230
+    },
+    {
+        "position": 7,
         "user_id": "63cc0364a88c92094367a9e30368e9da",
         "name": "Arkanor",
         "points": 228
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "de5dd59c4b10dc973f04f9f706f7026a",
         "name": "StateOfLimbo",
         "points": 227
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "e278526a32e742ba60c243f7eb15e5c1",
         "name": "Dr.Rockso",
-        "points": 226
-    },
-    {
-        "position": 9,
-        "user_id": "fb3be1012e6feae1f679e40ce7a01df6",
-        "name": "STERK KLOVN",
         "points": 226
     },
     {
@@ -589,14 +589,14 @@
     },
     {
         "position": 99,
-        "user_id": "d781d394e2c8111b75829391d1611221",
-        "name": "radagast",
-        "points": 90
+        "user_id": "8943da2a426d1964149332248d97440b",
+        "name": "ovikk",
+        "points": 92
     },
     {
         "position": 100,
-        "user_id": "a7f07285f98783ca408170d54c83b56c",
-        "name": "TAFATT SNOK",
+        "user_id": "d781d394e2c8111b75829391d1611221",
+        "name": "radagast",
         "points": 90
     }
 ]
