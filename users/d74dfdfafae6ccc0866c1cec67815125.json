@@ -1,14 +1,14 @@
 {
-    "position": 13,
+    "position": 12,
     "user_id": "d74dfdfafae6ccc0866c1cec67815125",
     "name": "SgtSIGSEGV",
-    "points": 195,
+    "points": 220,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Oppdrag": 85,
+        "2. Oppdrag": 100,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 40
+        "4. Skjulte flagg": 60
     }
 }
