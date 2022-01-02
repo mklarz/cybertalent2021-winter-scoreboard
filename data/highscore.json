@@ -301,26 +301,26 @@
     },
     {
         "position": 51,
+        "user_id": "577431702aaf6c3aa18a2e8a98246181",
+        "name": "FOKUSERT HACKTIVIST",
+        "points": 132
+    },
+    {
+        "position": 52,
         "user_id": "8bdaac4bd9742906a78c4f6f145713e5",
         "name": "snabel-b",
         "points": 132
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "8943da2a426d1964149332248d97440b",
         "name": "ovikk",
         "points": 132
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "500b5c3e12be0ac71552b51fc1194990",
         "name": "NYSGJERRIG HACKTIVIST",
-        "points": 130
-    },
-    {
-        "position": 54,
-        "user_id": "577431702aaf6c3aa18a2e8a98246181",
-        "name": "FOKUSERT HACKTIVIST",
         "points": 130
     },
     {
