@@ -1,14 +1,14 @@
 {
-    "position": 13,
-    "user_id": "43886867219d68113302f2d45ef389a8",
-    "name": "N",
-    "points": 220,
+    "position": 98,
+    "user_id": "d7029d775ce057fa7537205d624f841d",
+    "name": "NERDETE SLASK",
+    "points": 100,
     "categories": {
         "1. Grunnleggende": 100,
-        "2. Oppdrag": 100,
+        "2. Oppdrag": 15,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 60
+        "4. Skjulte flagg": 0
     }
 }

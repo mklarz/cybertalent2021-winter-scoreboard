@@ -67,14 +67,14 @@
     },
     {
         "position": 12,
-        "user_id": "43886867219d68113302f2d45ef389a8",
-        "name": "N",
+        "user_id": "5855b0274e4df8d8d15a4603a7728676",
+        "name": "Scalpel",
         "points": 220
     },
     {
         "position": 13,
-        "user_id": "5855b0274e4df8d8d15a4603a7728676",
-        "name": "Scalpel",
+        "user_id": "43886867219d68113302f2d45ef389a8",
+        "name": "N",
         "points": 220
     },
     {
@@ -583,20 +583,20 @@
     },
     {
         "position": 98,
+        "user_id": "d7029d775ce057fa7537205d624f841d",
+        "name": "NERDETE SLASK",
+        "points": 100
+    },
+    {
+        "position": 99,
         "user_id": "553227b904104b9131ee456ac2eb404b",
         "name": "jo_k_er",
         "points": 96
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "937b3062aadece4f0249c5e71dda2ba8",
         "name": "OPERATIV CYBERHELT",
         "points": 96
-    },
-    {
-        "position": 100,
-        "user_id": "fe89843f9f7c8701a639f894c0cded6c",
-        "name": "OPERATIV FRAGLE",
-        "points": 94
     }
 ]
