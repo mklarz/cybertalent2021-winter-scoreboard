@@ -2,13 +2,13 @@
     "position": 3,
     "user_id": "fbbff3b0e828f6f1f4eeb58a2532768b",
     "name": "larsw",
-    "points": 236,
+    "points": 240,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 100,
         "3.1. Utfordringer lett": 100,
         "3.2. Utfordringer middels": 100,
-        "3.3. Utfordringer vanskelig": 0,
+        "3.3. Utfordringer vanskelig": 20,
         "4. Skjulte flagg": 100
     }
 }
