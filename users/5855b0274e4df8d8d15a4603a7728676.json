@@ -1,14 +1,14 @@
 {
-    "position": 12,
+    "position": 11,
     "user_id": "5855b0274e4df8d8d15a4603a7728676",
     "name": "Scalpel",
-    "points": 220,
+    "points": 224,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 100,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
-        "3.3. Utfordringer vanskelig": 0,
+        "3.3. Utfordringer vanskelig": 20,
         "4. Skjulte flagg": 80
     }
 }
