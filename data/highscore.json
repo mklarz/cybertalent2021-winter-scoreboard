@@ -511,92 +511,92 @@
     },
     {
         "position": 86,
+        "user_id": "d7029d775ce057fa7537205d624f841d",
+        "name": "NERDETE SLASK",
+        "points": 102
+    },
+    {
+        "position": 87,
         "user_id": "ab9720ec7c033949215a8512fd9372c6",
         "name": "tDelDel",
         "points": 100
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "5a8acc7da8f41e6775115f418be29512",
         "name": "Stian",
         "points": 100
     },
     {
-        "position": 88,
+        "position": 89,
         "user_id": "c8b4ee47eb25010d97ab151dee8b05a4",
         "name": "S\u00c5RBAR KLOVN",
         "points": 100
     },
     {
-        "position": 89,
+        "position": 90,
         "user_id": "0b3ab3d158381bc74b4b98ebda57a8a6",
         "name": "DYKTIG KODEKNEKKER",
         "points": 100
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "ecb854521230084d8c5f5f4aff25043c",
         "name": "marrekanin",
         "points": 100
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "9c45ca579c1b46974c5e252164486af0",
         "name": "ANBEFALT SPION",
         "points": 100
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "6ec75c535cc52381686f528bace3033e",
         "name": "Morten242",
         "points": 100
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "36c4192302f0bd3a2ee5a82d7cdbb3e5",
         "name": "lold0t",
         "points": 100
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "a5d9931dde623a3f7e26e87421135a76",
         "name": "FOKUSERT PROGRAMMERER",
         "points": 100
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "5ee394bb2945773f3bf93a85726ee22c",
         "name": "RUTETE HACKER",
         "points": 100
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "e2f5e4247d779d28f2dbb5f09b4dfcf8",
         "name": "GameDadel",
         "points": 100
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "def844d8f433584ef2d9c4ecf18795af",
         "name": "jndi:",
         "points": 100
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "ebc6b6af3506c2a81c4f8d6778e1c6e2",
         "name": "Augustus",
-        "points": 100
-    },
-    {
-        "position": 100,
-        "user_id": "c78afb926507bf0b0f79da5767d519ae",
-        "name": "SurBacon",
         "points": 100
     }
 ]
