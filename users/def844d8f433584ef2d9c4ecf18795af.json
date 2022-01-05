@@ -1,7 +1,7 @@
 {
-    "position": 99,
-    "user_id": "c78afb926507bf0b0f79da5767d519ae",
-    "name": "SurBacon",
+    "position": 97,
+    "user_id": "def844d8f433584ef2d9c4ecf18795af",
+    "name": "jndi:",
     "points": 100,
     "categories": {
         "1. Grunnleggende": 100,
@@ -9,6 +9,6 @@
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 20
     }
 }

@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "def844d8f433584ef2d9c4ecf18795af",
+        "name": "jndi:",
+        "points": 100
+    },
+    {
+        "position": 98,
         "user_id": "ebc6b6af3506c2a81c4f8d6778e1c6e2",
         "name": "Augustus",
         "points": 100
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "c78afb926507bf0b0f79da5767d519ae",
         "name": "SurBacon",
         "points": 100
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "d7029d775ce057fa7537205d624f841d",
         "name": "NERDETE SLASK",
         "points": 100
-    },
-    {
-        "position": 100,
-        "user_id": "553227b904104b9131ee456ac2eb404b",
-        "name": "jo_k_er",
-        "points": 96
     }
 ]
