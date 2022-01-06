@@ -547,56 +547,56 @@
     },
     {
         "position": 92,
+        "user_id": "409d1e44882093daff7f49c073fef303",
+        "name": "bashgobrr/sneipen",
+        "points": 100
+    },
+    {
+        "position": 93,
         "user_id": "5e279ac33b7f2b51a76c14a8587d9f03",
         "name": "necklace",
         "points": 100
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "ecb854521230084d8c5f5f4aff25043c",
         "name": "marrekanin",
         "points": 100
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "9c45ca579c1b46974c5e252164486af0",
         "name": "ANBEFALT SPION",
         "points": 100
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "6ec75c535cc52381686f528bace3033e",
         "name": "Morten242",
         "points": 100
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "36c4192302f0bd3a2ee5a82d7cdbb3e5",
         "name": "lold0t",
         "points": 100
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "a5d9931dde623a3f7e26e87421135a76",
         "name": "FOKUSERT PROGRAMMERER",
         "points": 100
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "5ee394bb2945773f3bf93a85726ee22c",
         "name": "RUTETE HACKER",
         "points": 100
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "e2f5e4247d779d28f2dbb5f09b4dfcf8",
         "name": "GameDadel",
-        "points": 100
-    },
-    {
-        "position": 100,
-        "user_id": "def844d8f433584ef2d9c4ecf18795af",
-        "name": "jndi:",
         "points": 100
     }
 ]
