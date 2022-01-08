@@ -139,33 +139,33 @@
     },
     {
         "position": 24,
+        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
+        "name": "Bjarnesen",
+        "points": 174
+    },
+    {
+        "position": 25,
         "user_id": "93fa4c8b8341dacd7565b0a073b3d0f9",
         "name": "thronic",
         "points": 173
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "229b46473311a42d28dfbf88198265da",
         "name": "KUL GEEK",
         "points": 170
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
         "points": 170
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "e14eb0b91b5069b7064c23cb1a5d96a0",
         "name": "Roellik",
         "points": 166
-    },
-    {
-        "position": 28,
-        "user_id": "2ae260c2b9e19358d98bce35fc4b63f7",
-        "name": "Bjarnesen",
-        "points": 164
     },
     {
         "position": 29,
