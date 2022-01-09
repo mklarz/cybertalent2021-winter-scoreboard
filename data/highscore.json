@@ -25,21 +25,21 @@
     },
     {
         "position": 5,
+        "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
+        "name": "langemyh",
+        "points": 232
+    },
+    {
+        "position": 6,
         "user_id": "4f2a8bfa8d63d424ac961ce95623b742",
         "name": "klarz",
         "points": 230
     },
     {
-        "position": 6,
+        "position": 7,
         "user_id": "2bcdbedb5a61e9c5f75a8d2e87ee6430",
         "name": "zup",
         "points": 230
-    },
-    {
-        "position": 7,
-        "user_id": "1bf8e2a5210e0ee0e92ec0d7bec755cb",
-        "name": "langemyh",
-        "points": 229
     },
     {
         "position": 8,
