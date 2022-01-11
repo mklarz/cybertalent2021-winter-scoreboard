@@ -1,7 +1,7 @@
 {
-    "position": 96,
-    "user_id": "5f089f5bd4a06e0de05e1915f845bff2",
-    "name": "oles",
+    "position": 95,
+    "user_id": "fc03f4c6b0b9ee7abcf6593d1021eee1",
+    "name": "KREATIV NERD",
     "points": 102,
     "categories": {
         "1. Grunnleggende": 100,
@@ -9,6 +9,6 @@
         "3.1. Utfordringer lett": 50,
         "3.2. Utfordringer middels": 0,
         "3.3. Utfordringer vanskelig": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 20
     }
 }
