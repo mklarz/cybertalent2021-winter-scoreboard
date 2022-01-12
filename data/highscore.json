@@ -529,21 +529,21 @@
     },
     {
         "position": 89,
+        "user_id": "fc03f4c6b0b9ee7abcf6593d1021eee1",
+        "name": "KREATIV NERD",
+        "points": 107
+    },
+    {
+        "position": 90,
         "user_id": "937b3062aadece4f0249c5e71dda2ba8",
         "name": "OPERATIV CYBERHELT",
         "points": 106
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "f8cf3db747cc71854ea393539dce04e7",
         "name": "m",
         "points": 106
-    },
-    {
-        "position": 91,
-        "user_id": "fc03f4c6b0b9ee7abcf6593d1021eee1",
-        "name": "KREATIV NERD",
-        "points": 104
     },
     {
         "position": 92,
