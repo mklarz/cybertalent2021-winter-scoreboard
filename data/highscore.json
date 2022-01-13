@@ -187,68 +187,68 @@
     },
     {
         "position": 32,
+        "user_id": "2e4e45233a6160ed38700e4098921377",
+        "name": "Varcella",
+        "points": 162
+    },
+    {
+        "position": 33,
         "user_id": "b51236f49a73af15fe079842771011c8",
         "name": "0xman",
         "points": 160
     },
     {
-        "position": 33,
+        "position": 34,
         "user_id": "fbe2172f9ae264fc8a8703f215f4e517",
         "name": "Magnus",
         "points": 160
     },
     {
-        "position": 34,
+        "position": 35,
         "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
         "name": "ragev",
         "points": 160
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "72c1cc6250a04e68e141585023a3e41e",
         "name": "${jndi:ldap://anvilshop.utl/x}",
         "points": 160
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "2a3c4718d2588ddd005eab90ba1fd351",
         "name": "FLINK BABBAGE",
         "points": 159
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "31bfd41cc5450c78616f5d2d52fab4f6",
         "name": "neopoznannyy",
         "points": 157
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "c796bd1573d821793708161c997cf9a6",
         "name": "Vealending",
         "points": 157
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "577431702aaf6c3aa18a2e8a98246181",
         "name": "FOKUSERT HACKTIVIST",
         "points": 154
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "62190e3b89569a69b6fef71468254069",
         "name": "SVAK AGENT",
         "points": 152
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "c1829e44eb2b155e5e534ae91b0cd26c",
         "name": "fjellape",
-        "points": 152
-    },
-    {
-        "position": 42,
-        "user_id": "2e4e45233a6160ed38700e4098921377",
-        "name": "Varcella",
         "points": 152
     },
     {
