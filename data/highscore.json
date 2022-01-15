@@ -151,26 +151,26 @@
     },
     {
         "position": 26,
+        "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
+        "name": "ragev",
+        "points": 172
+    },
+    {
+        "position": 27,
         "user_id": "229b46473311a42d28dfbf88198265da",
         "name": "KUL GEEK",
         "points": 170
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "33950f41dd034b59bb51b1adb277d79b",
         "name": "INNBITT REVERSER",
         "points": 170
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "22f57e76ece01e2a5b6e04ac1966cedd",
         "name": "mutex",
-        "points": 170
-    },
-    {
-        "position": 29,
-        "user_id": "9ce78e9fe106e9f8a5eb44538746a1d0",
-        "name": "ragev",
         "points": 170
     },
     {
