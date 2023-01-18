@@ -55,6 +55,15 @@ ol li.counter::before {
     font-weight: bold;
 }
 
+ol li.unknown {
+    counter-increment: list-counter;
+}
+ol li.unknown::before {
+    content: counter(list-counter) " (?). ";
+    color: #ffc19c;
+    font-weight: bold;
+}
+
 h1 {
     text-align: center;
     color: #fff;

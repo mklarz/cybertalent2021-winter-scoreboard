@@ -19,6 +19,7 @@ HIGHSCORE_TEMPLATE_PATH = TEMPLATES_PATH + "/highscore.html"
 HIGHSCORE_JSON_PATH = DATA_PATH + "/highscore.min.json"
 HIGHSCORE_HTML_PATH = BASE_PATH + "/index.html"
 HIGHSCORE_LIST_ITEM_HTML_FORMAT = '<li class=counter onclick="location=\'./users/{}.html\'"><span class="navn">{}<span class="sum">{}</span></span></li>\n'
+HIGHSCORE_LIST_ITEM_UNKNOWN_HTML_FORMAT = '<li class=unknown onclick="location=\'./users/{}.html\'"><span class="navn">{}<span class="sum">{}</span></span></li>\n'
 
 USERS_PATH = BASE_PATH + "/users/"
 USER_JSON_PATH = USERS_PATH + "{}.json"
@@ -40,10 +41,12 @@ with open(HIGHSCORE_TEMPLATE_PATH) as fd:
     highscore_template = fd.read()
 
 # Parse users
+all_users = []
 for user_id in USERS:
     print("Parsing user:", user_id)
     with open(USER_JSON_PATH.format(user_id)) as fd:
         user_data = json.load(fd)
+        all_users.append(user_data)
     
     position_str = "{}. plass".format(user_data["position"]) if user_data["position"] else "Ukjent plassering"
 
@@ -73,6 +76,17 @@ with open(HIGHSCORE_JSON_PATH) as f:
                 bleach.clean(user["name"]),
                 user["points"],
         )
+        all_users[:] = [d for d in all_users if d.get("user_id") != user["user_id"]]
+
+    # Add the remaining users with unknown positions
+    all_users = sorted(all_users, key=lambda d: d["points"], reverse=True)
+    for user in all_users:
+        highscore_users_html += HIGHSCORE_LIST_ITEM_UNKNOWN_HTML_FORMAT.format(
+                user["user_id"],
+                bleach.clean(user["name"]),
+                user["points"],
+        )
+
     highscore_html = highscore_html.replace("{USERS}", highscore_users_html)
 
     with open(HIGHSCORE_HTML_PATH, "w") as fd:
